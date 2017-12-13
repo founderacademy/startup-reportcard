@@ -1,0 +1,597 @@
+#
+
+Your Name
+
+Your Email
+
+Company Name
+
+
+ON LEADERSHIP 
+
+
+How many founders does your company have?
+
+	1,
+	2,
+	3,
+	4,
+	5 +
+
+If you have at least one co-founder, how would you define your co-founder relationship?
+
+	We're best friends,
+	Collegial,
+	Strained,
+	I fired my co-founder,
+	i don't have a co-founder,
+	I'm a CEO not a Founder
+
+Do you think you'll still be CEO in 10 years?
+
+	I"m not the CEO,
+	Yes,
+	No
+
+If you're not successful, why do you think that will be?
+
+	We couldn't raise follow up capital,
+	Growth stagnated,
+	We never found product-market fit,
+	We hired the wrong people,
+	A competitor kicked our ass,
+	Our burn rate was too high,
+	Our customer churn was too high,
+	We couldn't ever raise a round at all
+
+
+ON THE MARKET
+
+
+Is now a good time to be starting a company?
+
+	Yes,
+	No
+
+If you were to start another company today, would it be in the same or a different industry?
+
+	Same Industry,
+	Different Industry
+
+Are we in a bubble for technology companies?
+
+	Yes, and it's close to popping,
+	Yes, but it won't pop anytime soon,
+	No, definitely not
+
+Have you sold any of your shares yet?
+
+	I haven't had the opportunity,
+	I had the chance, but I didn't,
+	Yes, a small amount,
+	Yes, a significant amount,
+	I sold all of my shares	
+
+
+ON THE BOTTOM LINE
+
+
+Are you optimizing for growth or profitability?
+
+	Growth,
+	Profitability
+	
+
+How is your burn rate different now than it was a year ago?
+
+	Didn't Change,
+	Decreased,
+	Increased,
+	We weren't around a year ago
+
+
+Do you consider curbing burn rate to be a critical priority?
+
+	Yes, it's our highest priority,
+	Yes, but it's not our highest priority,
+	No, we have no issues with our burn rate,
+	No, it's not that important to us right now
+
+
+How many years until you think you'll be profitable?
+
+	< 1,
+	1-3.
+	3-5,
+	> 5,
+	Already profitable
+	
+
+
+ON HIRING AND FIRING
+
+
+How many people do you think you're going to hire in the next 12 months?
+
+	0,
+	1-5,
+	6-10,
+	11-20,
+	21-50,
+	51-75,
+	76 +
+
+Are you ahead or behind your hiring plan?
+
+	Ahead,
+	On track,
+	Behind
+
+What’s the hardest executive hire you've made?
+
+	Engineering leader,
+	Sales leader,
+	Marketing leader,
+	Operations leader,
+	Finance leader,
+	Design leader,
+	Legal leader,
+	HR leader,
+	Other,
+	None
+
+Have you done a RIF (layoff) in the last year?
+
+	No,
+	Yes, under 10% of employees were let go,
+	Yes, over 10% of employees were let go
+	
+
+ON COMPENSATION
+
+
+What’s your policy on employees selling secondary shares?
+
+	We don't have a policy,
+	Need board approval,
+	Free to sell anytime,
+	ROFR,
+	no selling,
+	unsure
+
+How much time do employees have to exercise their options after leaving the company?
+
+	Immediately,
+	30 days,
+	3 months,
+	6 months,
+	9 months,
+	12 months,
+	1-3 years,
+	more than 3 years,
+	RSU's,
+	Grants, 
+	Unsure 
+
+
+How much equity does a mid-level engineer at your company receive?
+
+	0.00% - 0.20%,
+	0.21% - 0.40%,
+	0.41% - 0.60%,
+	0.61% - 0.80%,
+	1.01% +
+
+How much does a mid-level engineer at your company make (salary + bonus)?
+
+	< $80K,
+	$80 - $100K,
+	$101 - $150K,
+	$151 - $200K,
+	$201 - $250K
+
+
+ON THE OFFICE AND CULTURE
+
+
+What’s the price per square foot at your current office per month?
+
+	< $0.50,
+	$0.60-$0.80,
+	$0.90-$1.00,
+	$1.50-$2.00,
+	$2.50-$3.00,
+	$3.50-$4.00,
+	$4.50-$5.00,
+	$5.50-$6.00,
+	$6.50-$7.00,
+	$7.50-$8.00,
+	$8.50-$9.00,
+	$9.50-$10.00,
+	$10.50-$11.00,
+	$11.50-$20,
+	$31-$50,
+	$51 +
+
+What is the average tenure of a non-executive employee at your company?
+
+	< 1 year,
+	1-2 years,
+	3-4 years,
+	4-5 years,
+	5 + years,
+	Too early to tell
+
+What do you consider to be the primary driver of your company's culture?
+
+	Engineering,
+	Sales,
+	Design,
+	Products,
+	Customer,
+	Mission,
+	Leadership,
+	Data,
+	N/A
+
+What time do most people leave the office at the end of the day?
+
+	Before 5pm,
+	5-6pm,
+	6-7pm,
+	7-8pm,
+	8-9pm,
+	After 10pm
+
+Do you allow telecommuting?
+
+	Yes,
+	No
+	
+
+ON DIVERSITY AND INCLUSION
+
+
+Does your organization have a strategy to promote diversity and inclusion?
+
+	Yes, we have a formal plan or policies,
+	Yes, but nothing formal,
+	No, but we have plans to adopt one,
+	No, and no plans currently in the works
+
+In the past year, has your company talked about diversity and inclusion internally or externally?
+
+	Yes, internally,
+	Yes, externally,
+	Yes, both,
+	No
+
+What is the male to female ratio of your board?
+
+	All male,
+	Mostly male,
+	About 50:50,
+	Mostly Female,
+	All female
+
+What is the male to female ratio of your entire team?
+
+	All male,
+	Mostly male,
+	About 50:50,
+	Mostly Female,
+	All female
+	
+
+ON FUNDRAISING
+
+
+What was your last funding round?
+
+	N/A,
+	Bootstrap,
+	No plans to raise one,
+	Friends & Family,
+	Angel,
+	Seed,
+	Series A,
+	Series B,
+	Series C,
+	Series D,
+	Bridge	
+
+How long ago did you raise your last round?
+
+	Raised this year,
+	1 year ago,
+	2 years ago,
+	3 years ago,
+	4 years ago,
+	5+ years ago,
+	Can't disclose
+	
+How long was your entire fundraising process for your most recent round?
+
+	< 1 months,
+	1 months,
+	2 months,
+	3 months,
+	4 months,
+	5 months,
+	6 months,
+	> 7 months
+
+How many individuals + firms did you pitch when raising your last round?
+
+	Inside round,
+	< 3,
+	3-5,
+	6-10,
+	11-20,
+	21-30,
+	> 30
+
+In your last round, did you raise more or less than you targeted?
+
+	More,
+	Less,
+	Exactly what I went out to raise
+
+Did you try to raise money locally?
+
+	Yes,
+	No
+
+Were you successful?
+
+	Yes,
+	No
+
+Who locally participated in this round?
+
+	Private answer
+
+Has your company ever raised a bridge round?
+
+	Yes,
+	No
+
+Do you expect it to get harder or easier to raise venture capital in the next 12 months?
+
+	Much easier,
+	Somewaht easier,
+	Neither hard nor easy,
+	Somewhat harder,
+	Much harder
+
+How challenging do you think it will be to raise your next round of capital?
+
+	Not at all challenging,
+	Not so challenging ,
+	Moderately challenging,
+	Very challenging,
+	Extremely challenging
+
+
+ON EXITS
+
+
+If you intend to go public, how long do you think it will be until your IPO?
+
+	< 1 year,
+	1-3 years,
+	4-5 years,
+	6-7 years,
+	> 8 years,
+	We don't intend to IPO
+
+Compared to today, over the next 18 months...
+
+	More technology companies will go public,
+	Fewer technology companies will go public,
+	The number of technology companies going public will be the same as today
+
+Will there be fewer or more mergers and acquisitions for startups over the next 12 months?
+
+	Far fewer,
+	Slightly fewer,
+	About the same,
+	Slightly more,
+	Far more
+
+How confident are you that you're building a billion dollar company?
+
+	I'm certain that we will,
+	I'm confident we have a decent shot at it,
+	It's possible, but i'm not sure we will,
+	I doubt it,
+	Definitely not
+
+
+ON INVESTORS
+
+
+Over the past few years, do you think power has generally been in the hands of entrepreneurs or investors?
+
+	Investors,
+	Entrepreneurs	
+
+Over the next few years, do you think power will be more in the hands of entrepreneurs or more in the hands of investors?
+
+	Investors,
+	Entrepreneurs		
+
+What was the most important factor in picking your lead investor?
+
+	Individual partner expertise,
+	Terms of the deal,
+	Ability to fund us over the long-term,
+	Strength of firms brand,
+	Important network connections,
+	Good relationship and cultural fit,
+	Support services for entrepreneurs,
+	No investor,
+	Random,
+	Enthusiasm aligned,
+	Strategic
+
+How has the help that your lead investors have provided matched your expectations?
+
+	Exceeded expectations ,
+	Met expectations,
+	Below expectations,
+	N/A
+	
+
+ABOUT YOU
+
+
+Are you the CEO, founder or both?
+
+	Founder,
+	CEO,
+	Both,
+	Neither
+
+Where is your company headquartered?
+
+	CITY
+
+How long ago did you start your company?
+
+	< 1 years,
+	1-2 years,
+	3-4 years,
+	5-6 years,
+	7-8 years,
+	9-10 years,
+	11 + years
+
+Are you male or female?
+
+	Male,
+	Female
+
+How old are you?
+
+	< 21,
+	21-25,
+	26-30,
+	31-35,
+	36-40,
+	41-50,
+	50 +
+
+How large is your team today?
+
+	Just founders,
+	< 6,
+	6-20,
+	21-50,
+	51-100,
+	101-250,
+	250 +
+
+What sector best describes the type of company you are running?
+
+	Enterprise,
+	Consumer Internet,
+	Financial Tech,
+	Ecommerce,
+	Health Care,
+	Hardware,
+	AdTech,
+	Education,
+	On demand,
+	Mobile,
+	Logistics,
+	Gaming,
+	Energy,
+	AgTech,
+	Bio medical,
+	Civic Tech / GovTech
+
+
+Which platform are you most focused on?
+	
+	Other,
+	AgTech,
+	Artificial Intelligence,
+	Autonomous Vehicles,
+	Bitcoin,
+	Bots & Conversational UI, 
+	Clean Tech,
+	Drones,
+	Ed Tech,
+	GovTech,
+	Internet Of Things,
+	Life Sciences,
+	Mobile,
+	On-Demand Economy,
+	Security,Sensors,
+	Sharing Economy,
+	Space,
+	VR / AR,
+	Wearables
+
+Your Opinions on Technologies in 2017 and Which Industries will grow (or decline) in 2018
+
+(scale 1-11), 
+1 = over hyped,
+6 = just right,
+11 = under hyped
+
+	AgTech,
+		scale 
+	Artificial Intelligence,
+		scale
+	Autonomous Vehicles,
+		scale
+	Bitcoin,
+		scale
+	Bots & Conversational UI, 
+		scale
+	Clean Tech,
+		scale
+	Drones,
+		scale
+	Ed Tech,
+		scale
+	CivicTech / GovTech,
+		scale
+	Internet Of Things,
+		scale
+	Life Sciences,
+		scale
+	Mobile,
+		scale
+	On-Demand Economy,
+		scale
+	Security,Sensors,
+		scale
+	Sharing Economy,
+		scale
+	Space,
+		scale
+	VR / AR,
+		scale
+	Wearables
+		scale
+
+
+What's our regions greatest strength?
+
+	LONG ANSWER
+
+What's our regions greatest weakness?
+
+	LONG ANSWER
+
+Anything else?
+
+	LONG ANSWER
+
+Start Date (UTC)
+
+Submit Date (UTC)
+
